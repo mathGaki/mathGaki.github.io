@@ -33,13 +33,13 @@
     <title>1. 측지학 및 위성측위 시스템(GNSS)</title>
     <link>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/1.-%EC%B8%A1%EC%A7%80%ED%95%99-%EB%B0%8F-%EC%9C%84%EC%84%B1%EC%B8%A1%EC%9C%84-%EC%8B%9C%EC%8A%A4%ED%85%9C(GNSS)</link>
     <guid>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/1.-%EC%B8%A1%EC%A7%80%ED%95%99-%EB%B0%8F-%EC%9C%84%EC%84%B1%EC%B8%A1%EC%9C%84-%EC%8B%9C%EC%8A%A4%ED%85%9C(GNSS)</guid>
-    <description>1. 측지학 및 위성측위 시스템(GNSS) 1.1. 측지학 개론 1.1.1. 측지학의 정의, 분류 ① 측지학 정의, 분류 ② 지구물리측량 1.1.2. 지구의 크기와 형상, 운동 ① 지구타원체 ② 구면삼각형 ③ 지오이드 연직선 편차 지구 타원체 상의 임의의 점에 대한 법선인 수직선과 이를 통과하는 연직선 사이의 각 원인 : 기준타원체와 지오이드의 불일치에 의해 발생 이 값들을 이용해 준거타원체를 수정함과 동시에, 지구 형상 결정, 지구 내부 구조 해명해 도움을 줌 1.</description>
+    <description>1. 측지학 및 위성측위 시스템(GNSS) 1.1. 측지학 개론 1.1.1. 측지학의 정의, 분류 ① 측지학 정의, 분류 ② 지구물리측량 1.1.2. 지구의 크기와 형상, 운동 ① 지구타원체 ② 구면삼각형 ③ 지오이드 연직선 편차 지구 타원체 상의 임의의 점에 대한 법선인 수직선과 이를 통과하는 연직선 사이의 각 원인 : 기준타원체와 지오이드의 불일치에 의해 발생 이 값들을 이용해 준거타원체를 수정함과 동시에, 지구 형상 결정, 지구 내부 구조 해명해 도움을 줌 구면삼각형의 면적 (221.</description>
     <pubDate>Sun, 03 Mar 2024 11:50:50 GMT</pubDate>
   </item><item>
     <title>5. 측량학</title>
     <link>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/5.-%EC%B8%A1%EB%9F%89%ED%95%99</link>
     <guid>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/5.-%EC%B8%A1%EB%9F%89%ED%95%99</guid>
-    <description>5. 측량학 5.1. 측량학에 대한 전문적인 지식이 요구되는 사항 5.1.1. 측량기기의 종류 및 조정 ① 기기 종류 ② 기기별 조정 5.1.2. 거리 및 각측량 ① 거리측량 ② 각측량 5.1.3. 삼변 및 삼각측량 ① 특징 및 정확도 ② 작업순서, 관측 ③ 조정계산 ④ 결과정리 5.</description>
+    <description>5. 측량학 5.1. 측량학에 대한 전문적인 지식이 요구되는 사항 5.1.1. 측량기기의 종류 및 조정 ① 기기 종류 ② 기기별 조정 5.1.2. 거리 및 각측량 ① 거리측량 ② 각측량 방위각 계산 xy좌표계에서 x축이 세로축 x축+ 를 기준으로 시계방향으로 각 측정 표고 최확값 경중률은 거리에 반비례 각측량 최확값 측각 오차 구하기 : 83’01’07’-23’46’00’-59’14’27=0’0’40’ 보정량은 경중률에 반비례 &gt;&gt; AOC 보정량은 1/1:1/3:1/4=12:4:3 각 AOC의 최확값은 83’01’07’-0’0’40x3/(12+4+3) 5.</description>
     <pubDate>Sun, 03 Mar 2024 11:50:50 GMT</pubDate>
   </item><item>
     <title>측량기사</title>
@@ -57,13 +57,13 @@
     <title>4. 지리정보시스템</title>
     <link>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/4.-%EC%A7%80%EB%A6%AC%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C</link>
     <guid>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/4.-%EC%A7%80%EB%A6%AC%EC%A0%95%EB%B3%B4%EC%8B%9C%EC%8A%A4%ED%85%9C</guid>
-    <description>4. 지리정보시스템 4.1. 지리정보시스템(GIS) 4.1.1. GIS의 개요 ① 정의, 유형 ② 주요기능, 특성 4.1.2. GIS의 구성 요소 ① 하드웨어, 소프트웨어 ② 데이터베이스 4.1.3. GIS 데이터베이스 ① 자료(공간, 속성) 구조 ② 자료관리 4.1.</description>
+    <description>4. 지리정보시스템 4.1. 지리정보시스템(GIS) 4.1.1. GIS의 개요 ① 정의, 유형 ② 주요기능, 특성 GIS의 정의 인간의 의사결정능력의 지원에 필요한 지리정보의 관측과 수집에서부터 보존과 분석, 출력에 이르기까지 일련의 조작을 위한 정보시스템 지리정보는 GIS에서 대상으로 하는 모든 정보를 의미 지리정보의 대표적인 항목은 지리적 위치, 관련 속성정보, 공간적 관계, 시간 4.</description>
     <pubDate>Sun, 03 Mar 2024 11:50:50 GMT</pubDate>
   </item><item>
     <title>2. 응용측량</title>
     <link>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/2.-%EC%9D%91%EC%9A%A9%EC%B8%A1%EB%9F%89</link>
     <guid>https://textrepository.me/%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%86%A0%EB%AA%A9/%EC%B8%A1%EB%9F%89%EA%B8%B0%EC%82%AC/2.-%EC%9D%91%EC%9A%A9%EC%B8%A1%EB%9F%89</guid>
-    <description>2. 응용측량 2.1. 면적 및 체적측량 2.1.1. 면적 및 체적측량 ① 면적측량 ② 체적측량 2.1.2. 면적분할법 ① 면적분할법 ② 면적분할의 활용 2.2. 노선측량 2.2.1. 노선측량의 개요 ① 노선측량의 목적 ② 곡선의 종류 ③ 노선 측량의 응용 2.2.2.</description>
+    <description>2. 응용측량 2.1. 면적 및 체적측량 2.1.1. 면적 및 체적측량 ① 면적측량 ② 체적측량 사선식 각 점들의 좌표가 주어졌을 때 S=21​​x1​y1​​x2​y2​​x3​y3​​x4​y4​​​ 체적 산정방법 단면법 철도, 도로 및 수로 등을 건설할 때 토량을 계산할 때 가장 적합 지형을 일정한 간격으로 횡단면을 작성하고, 각 횡단면의 면적과 길이를 곱하여 체적을 구함 점고법 지형의 특정 지점의 고도를 측량하여 지형을 추정 토량을 정확하게 산정하기 어려움 등고선법 지형의 고도를 등고선으로 나타냄 단면법에 비해 정확도는 높으나 계산이 복잡 유토곡선법 지형의 경사를 유토곡선으로 나타냄 등고선법과 유사하나 계산이 더욱 복잡 축척 도상길이 도면 크기 = 실제면적/축척 2.</description>
     <pubDate>Sun, 03 Mar 2024 11:50:50 GMT</pubDate>
   </item>
     </channel>
