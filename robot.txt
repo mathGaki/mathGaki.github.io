@@ -1,0 +1,41 @@
+# --- 주요 생성형 AI 크롤러 차단 ---
+# Google의 생성형 AI 학습 봇
+User-agent: Google-Extended
+Disallow: /
+
+# Common Crawl (많은 LLM 학습 데이터로 사용됨)
+User-agent: CCBot
+Disallow: /
+
+# OpenAI의 챗봇 및 학습 봇
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+
+# Anthropic의 Claude 학습 봇
+User-agent: ClaudeBot
+Disallow: /
+
+# Perplexity AI의 봇
+User-agent: PerplexityBot
+Disallow: /
+
+# Facebook (Meta)의 봇
+User-agent: Facebot
+Disallow: /
+
+# 이미지 관련 AI 봇
+User-agent: Omg-Imgbot
+Disallow: /
+
+# ByteDance (TikTok 모회사)의 봇
+User-agent: Bytespider
+Disallow: /
+
+# --- 모든 다른 일반 검색 엔진 크롤러는 허용 ---
+# 이 규칙은 위에 명시적으로 차단된 봇들을 제외한
+# 모든 다른 봇(예: Googlebot, Bingbot, NaverBot 등)의
+# 웹사이트 전체 접근을 허용합니다.
+User-agent: *
+Allow: /
